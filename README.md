@@ -31,10 +31,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-## Branch Develop 
 
-## Dia 01/08/2024 ->
-## Criando Branch Develop para organização do codigo.
+## O Projeto Integrador da turma 2024.26.82 tem como objetivo aplicar na prática os conhecimentos adquiridos ao longo do curso de Programador Full Stack, englobando tecnologias e linguagens como HTML, CSS, JavaScript, PHP, Laravel e SQL.
 
+## Dia 01/07/2024 -> Projeto Inciado
 
 ## by: Rafael Santana
